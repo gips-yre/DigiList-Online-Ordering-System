@@ -21,3 +21,5 @@ DigiList is a web-based e-commerce platform specifically designed for ordering c
 * **Backend:** PHP
 * **Database:** MySQL
 * **Hosting Environment:** InfinityFree (Live Production) / XAMPP or WAMP (Local Development)
+
+Live Website - https://digilist.infinityfreeapp.com/index.php
