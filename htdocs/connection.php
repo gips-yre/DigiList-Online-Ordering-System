@@ -1,9 +1,9 @@
 <?php
 
-$host = "sql211.infinityfree.com";      
-$dbname = "if0_37366487_Evangelista_online_ordering_system"; 
-$username = "if0_37366487";       
-$password = "nv0PWGrmw4mJpC";           
+$host = "";      
+$dbname = ""; 
+$username = "";       
+$password = "";           
 
 
 $conn = new mysqli($host, $username, $password, $dbname);
