@@ -192,13 +192,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 $mail->isSMTP();
                 $mail->Host = 'smtp.gmail.com';
                 $mail->SMTPAuth = true;
-                $mail->Username = 'evangelista.yhuri.bsit@gmail.com'; 
-                $mail->Password = 'ofszwltxbxtowinw'; 
+                $mail->Username = 'contact@gmail.com'; 
+                $mail->Password = 'contact'; 
                 $mail->SMTPSecure = 'tls';
                 $mail->Port = 587;
 
                 // Set email 
-                $mail->setFrom('evangelista.yhuri.bsit@gmail.com', 'DigiList');
+                $mail->setFrom('contact@gmail.com', 'DigiList');
                 $mail->addAddress($user_email); 
                 $mail->isHTML(true);
                 $mail->Subject = 'Password Reset Request';
