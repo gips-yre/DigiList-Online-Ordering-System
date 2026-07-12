@@ -196,8 +196,8 @@
         <p>For any inquiries, support requests, or feedback, please don't hesitate to get in touch with us. We're here to assist you!</p>
 
         <div class="contact-details">
-            <p>Email: <a href="mailto:evangelista.yhuri.bsit@gmail.com">evangelista.yhuri.bsit@gmail.com</a></p>
-            <p>Phone: <a href="tel:+63212345678">+63 9612962786</a></p>
+            <p>Email: <a href="mailto:contact@gmail.com">contact@gmail.com</a></p>
+            <p>Phone: <a href="tel:+63212345678">+63 987654321</a></p>
             <p>Address: DigiList HQ, Malolos City, Philippines</p>
         </div>
     </section>
